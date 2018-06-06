@@ -72,7 +72,12 @@ body
 	display:         inline;
 }
 
-#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
+/* 
+	TODO:
+	1. Remove the some of the default styling added to anchor tags. Replace the "#oldmenuidselector" with:
+		#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
+*/
+#oldmenuidselector
 {
 	color:           #767676;	
 
