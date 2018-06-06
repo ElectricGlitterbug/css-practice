@@ -7,9 +7,12 @@ body
 	
 	/* 
 		TODO: 
-		1. Change the color of the background to black(#000000)
-		2. Set the margin of the body to 0
-		3. Set the padding of the body to 0
+		1. Change the color of the background to black: 
+			#000000
+		2. Set the margin of the body to: 
+			0
+		3. Set the padding of the body to: 
+			0
 
 	*/
 }
@@ -21,7 +24,8 @@ body
 	background-color:  #333;
 	/* 
 		TODO:
-		1. Change the width of the container div to: 683px
+		1. Change the width of the container div to: 
+			683px
 		2. Center the tag by adding this value to the margin: 
 			0 auto
 	*/
@@ -42,13 +46,14 @@ body
 
 /* 
 	TODO: 
-	1. Add a class selector for the "headtitle" class, and copy these types into it:
+	1. Add a class selector for the "headtitle" class, and copy these types styles into it:
 		position:        relative;
 		font-family:     Times;
 		color:           #FFF;
 		top:             210px;
 		left:            12px;
-	2. Within the same headtitle class selector, change the font size to: 30px
+	2. Within the same headtitle class selector, change the font size to: 
+		30px
 */
 
 #menu
@@ -74,7 +79,7 @@ body
 
 /* 
 	TODO:
-	1. Remove the some of the default styling added to anchor tags. Replace the "#oldmenuidselector" with:
+	1. Remove the some of the default styling added to anchor tags. Replace the id selector, "#oldmenuidselector" with:
 		#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
 */
 #oldmenuidselector
@@ -158,8 +163,10 @@ body
 	/* 
 		TODO: 
 		1. Change the width and height of the footer
-			The width should be: 641px
-			The height should be: 39px
+			The width should be: 
+				641px
+			The height should be: 
+				39px
 	 */
 
 }
@@ -173,6 +180,7 @@ body
 	padding:         10px;
 	/* 
 		TODO: 
-		1. Change the font color to: #767676 
+		1. Change the font color to: 
+			#767676 
 	*/
 }
